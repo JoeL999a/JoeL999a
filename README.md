@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoeL999a, based in southern Germany. (Timezone is CET/CEST.)
-- 👀 I’m interested in photography, darktable, Linux (especially Debian).
+- 👀 I’m interested in photography, darktable, Linux (especially Debian), using FOSS for creative work.
 - 🌱 I’m currently learning darktable. (When I have made some progress after my first steps I might consider to contribute in documentation work (e.g. translation) for it.)
 
 <!---
